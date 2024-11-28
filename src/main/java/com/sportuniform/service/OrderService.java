@@ -5,7 +5,6 @@ import com.sportuniform.dto.OrderRequestDto;
 import com.sportuniform.repository.ItemRepository;
 import com.sportuniform.repository.MemberRepository;
 import com.sportuniform.repository.OrderRepository;
-import com.sportuniform.repository.SizeRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
